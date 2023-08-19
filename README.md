@@ -4,7 +4,7 @@ Welcome to the Random Coding Projects repository! This repository serves as a co
 
 ## Table of Contents
 
-- [Project 1: Battleship Using C++]
+- Project 1: Battleship Using C++
 
 ## About the Projects
 
